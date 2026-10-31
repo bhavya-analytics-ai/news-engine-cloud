@@ -1,0 +1,288 @@
+04:46:53 ET START burst driver table. Expected: Polymarket universe 2-3 min, Polymarket trades (16 threads) ~15-20 min, local loads + scan (process pool) ~5 min, report ~5 min. Total ~30-40 min.
+04:49:18 ET polymarket universe restarted (slim payloads, 8 threads)
+04:50:31 ET polymarket universe: previous run ended with the app session restart (no output); started again (slim payloads, 8 threads)
+04:51:43 ET scan pass 1 (all sources except Polymarket) started in parallel with the Polymarket pull
+Traceback (most recent call last):
+  File "/Users/ompandya/Desktop/forex-agent-active/news_engine_2026-10-30/driver/scan.py", line 236, in <module>
+    main()
+  File "/Users/ompandya/Desktop/forex-agent-active/news_engine_2026-10-30/driver/scan.py", line 183, in main
+    for x in rng.choice(cand, n, replace=False):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "numpy/random/_generator.pyx", line 874, in numpy.random._generator.Generator.choice
+ValueError: a cannot be empty unless no samples are taken
+scan exit 1
+04:52:10 ET polymarket trades may2025 started, 16 threads, 1904 markets
+04:52:12 polymarket may2025: 25/1904 markets (1 %), 10960 trades, 53 calls, 0 retries, elapsed 0.0 min, ETA 2.1 min
+04:52:13 polymarket may2025: 50/1904 markets (3 %), 23128 trades, 98 calls, 0 retries, elapsed 0.0 min, ETA 1.7 min
+04:52:15 polymarket may2025: 75/1904 markets (4 %), 30923 trades, 162 calls, 0 retries, elapsed 0.1 min, ETA 1.8 min
+04:52:22 polymarket may2025: 100/1904 markets (5 %), 47268 trades, 263 calls, 41 retries, elapsed 0.2 min, ETA 3.5 min
+04:52:25 polymarket may2025: 125/1904 markets (7 %), 71416 trades, 313 calls, 41 retries, elapsed 0.2 min, ETA 3.4 min
+04:52:28 polymarket may2025: 150/1904 markets (8 %), 89718 trades, 377 calls, 41 retries, elapsed 0.3 min, ETA 3.4 min
+04:52:29 polymarket may2025: 175/1904 markets (9 %), 106487 trades, 415 calls, 41 retries, elapsed 0.3 min, ETA 3.0 min
+04:52:31 polymarket may2025: 200/1904 markets (11 %), 118227 trades, 465 calls, 57 retries, elapsed 0.3 min, ETA 2.9 min
+04:52:31 polymarket may2025: 225/1904 markets (12 %), 124609 trades, 496 calls, 60 retries, elapsed 0.4 min, ETA 2.6 min
+04:52:34 polymarket may2025: 250/1904 markets (13 %), 142042 trades, 552 calls, 72 retries, elapsed 0.4 min, ETA 2.6 min
+04:52:36 polymarket may2025: 275/1904 markets (14 %), 157585 trades, 600 calls, 86 retries, elapsed 0.4 min, ETA 2.5 min
+04:52:38 polymarket may2025: 300/1904 markets (16 %), 162207 trades, 644 calls, 101 retries, elapsed 0.5 min, ETA 2.5 min
+04:52:38 polymarket may2025: 325/1904 markets (17 %), 166438 trades, 683 calls, 115 retries, elapsed 0.5 min, ETA 2.3 min
+04:52:40 polymarket may2025: 350/1904 markets (18 %), 170126 trades, 710 calls, 116 retries, elapsed 0.5 min, ETA 2.2 min
+04:52:40 ET scan pass 1 restarted after timestamp-unit fix (no Polymarket; output driver/per_burst_nopoly.csv)
+04:52:41 scan: windows 1930 (bursts 854); loading sources in parallel
+04:52:42 polymarket may2025: 375/1904 markets (20 %), 172662 trades, 750 calls, 131 retries, elapsed 0.5 min, ETA 2.2 min
+04:52:43 polymarket may2025: 400/1904 markets (21 %), 178141 trades, 786 calls, 138 retries, elapsed 0.5 min, ETA 2.0 min
+04:52:45 polymarket may2025: 425/1904 markets (22 %), 184209 trades, 832 calls, 146 retries, elapsed 0.6 min, ETA 2.0 min
+04:52:47 polymarket may2025: 450/1904 markets (24 %), 193573 trades, 887 calls, 164 retries, elapsed 0.6 min, ETA 2.0 min
+04:52:49 polymarket may2025: 475/1904 markets (25 %), 200425 trades, 931 calls, 178 retries, elapsed 0.6 min, ETA 2.0 min
+04:52:50 polymarket may2025: 500/1904 markets (26 %), 203844 trades, 971 calls, 189 retries, elapsed 0.7 min, ETA 1.9 min
+04:52:52 polymarket may2025: 525/1904 markets (28 %), 206702 trades, 1004 calls, 194 retries, elapsed 0.7 min, ETA 1.8 min
+04:52:55 polymarket may2025: 550/1904 markets (29 %), 214621 trades, 1061 calls, 210 retries, elapsed 0.7 min, ETA 1.8 min
+04:52:55 scan: loaded: posts 972824, kalshi trades 2676806 (raw 2677367), polymarket trades ; 14s
+04:52:57 scan: books built; scanning 1930 windows with 2 processes; 16s
+04:52:57 polymarket may2025: 575/1904 markets (30 %), 223474 trades, 1117 calls, 226 retries, elapsed 0.8 min, ETA 1.8 min
+04:52:57 scan: scanned 200/1930 (10 %), elapsed 0.3 min
+04:52:57 scan: scanned 400/1930 (21 %), elapsed 0.3 min
+04:52:57 scan: scanned 600/1930 (31 %), elapsed 0.3 min
+04:52:57 scan: scanned 800/1930 (41 %), elapsed 0.3 min
+04:52:58 scan: scanned 1000/1930 (52 %), elapsed 0.3 min
+04:52:58 scan: scanned 1200/1930 (62 %), elapsed 0.3 min
+04:52:58 scan: scanned 1400/1930 (73 %), elapsed 0.3 min
+04:52:58 scan: scanned 1600/1930 (83 %), elapsed 0.3 min
+04:52:58 scan: scanned 1800/1930 (93 %), elapsed 0.3 min
+04:52:58 scan: scanned 1930/1930 (100 %), elapsed 0.3 min
+Traceback (most recent call last):
+  File "/Users/ompandya/Desktop/forex-agent-active/news_engine_2026-10-30/driver/scan.py", line 237, in <module>
+    main()
+  File "/Users/ompandya/Desktop/forex-agent-active/news_engine_2026-10-30/driver/scan.py", line 230, in main
+    for f in fires: long.append(dict(wid=w["wid"], month=w["month"], kind=w["kind"], big=w["big"], **f))
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: dict() got multiple values for keyword argument 'kind'
+04:52:58 polymarket may2025: 600/1904 markets (32 %), 235159 trades, 1158 calls, 227 retries, elapsed 0.8 min, ETA 1.7 min
+scan pass1 exit 1
+04:53:04 polymarket may2025: 625/1904 markets (33 %), 266802 trades, 1274 calls, 254 retries, elapsed 0.9 min, ETA 1.8 min
+04:53:07 polymarket may2025: 650/1904 markets (34 %), 286020 trades, 1350 calls, 267 retries, elapsed 0.9 min, ETA 1.8 min
+04:53:09 polymarket may2025: 675/1904 markets (35 %), 302366 trades, 1400 calls, 280 retries, elapsed 1.0 min, ETA 1.8 min
+04:53:11 polymarket may2025: 700/1904 markets (37 %), 313055 trades, 1447 calls, 296 retries, elapsed 1.0 min, ETA 1.7 min
+04:53:14 polymarket may2025: 725/1904 markets (38 %), 318996 trades, 1526 calls, 317 retries, elapsed 1.1 min, ETA 1.7 min
+04:53:15 polymarket may2025: 750/1904 markets (39 %), 323185 trades, 1562 calls, 317 retries, elapsed 1.1 min, ETA 1.7 min
+04:53:18 polymarket may2025: 775/1904 markets (41 %), 345701 trades, 1622 calls, 333 retries, elapsed 1.1 min, ETA 1.6 min
+04:53:21 polymarket may2025: 800/1904 markets (42 %), 359502 trades, 1698 calls, 353 retries, elapsed 1.2 min, ETA 1.6 min
+04:53:23 polymarket may2025: 825/1904 markets (43 %), 363791 trades, 1752 calls, 360 retries, elapsed 1.2 min, ETA 1.6 min
+04:53:28 polymarket may2025: 850/1904 markets (45 %), 389417 trades, 1865 calls, 370 retries, elapsed 1.3 min, ETA 1.6 min
+04:53:31 polymarket may2025: 875/1904 markets (46 %), 409687 trades, 1933 calls, 383 retries, elapsed 1.3 min, ETA 1.6 min
+04:53:33 polymarket may2025: 900/1904 markets (47 %), 413694 trades, 1988 calls, 395 retries, elapsed 1.4 min, ETA 1.5 min
+04:53:35 scan: windows 1930 (bursts 854); loading sources in parallel
+04:53:39 polymarket may2025: 925/1904 markets (49 %), 449217 trades, 2132 calls, 424 retries, elapsed 1.5 min, ETA 1.6 min
+04:53:46 polymarket may2025: 950/1904 markets (50 %), 470939 trades, 2305 calls, 466 retries, elapsed 1.6 min, ETA 1.6 min
+04:53:48 scan: loaded: posts 972824, kalshi trades 2676806 (raw 2677367), polymarket trades ; 14s
+04:53:50 scan: books built; scanning 1930 windows with 2 processes; 15s
+04:53:50 scan: scanned 200/1930 (10 %), elapsed 0.3 min
+04:53:50 scan: scanned 400/1930 (21 %), elapsed 0.3 min
+04:53:50 scan: scanned 600/1930 (31 %), elapsed 0.3 min
+04:53:50 scan: scanned 800/1930 (41 %), elapsed 0.3 min
+04:53:50 scan: scanned 1000/1930 (52 %), elapsed 0.3 min
+04:53:50 scan: scanned 1200/1930 (62 %), elapsed 0.3 min
+04:53:50 polymarket may2025: 975/1904 markets (51 %), 484918 trades, 2405 calls, 477 retries, elapsed 1.7 min, ETA 1.6 min
+04:53:50 scan: scanned 1400/1930 (73 %), elapsed 0.3 min
+04:53:50 scan: scanned 1600/1930 (83 %), elapsed 0.3 min
+04:53:50 scan: scanned 1800/1930 (93 %), elapsed 0.3 min
+04:53:50 scan: scanned 1930/1930 (100 %), elapsed 0.3 min
+04:53:51 scan: DONE: per_burst.csv 1930 rows, fires.csv 31568 rows; 16s
+04:53:55 polymarket may2025: 1000/1904 markets (53 %), 508712 trades, 2507 calls, 500 retries, elapsed 1.7 min, ETA 1.6 min
+04:53:59 polymarket may2025: 1025/1904 markets (54 %), 531571 trades, 2621 calls, 517 retries, elapsed 1.8 min, ETA 1.6 min
+04:54:21 polymarket may2025: 1050/1904 markets (55 %), 606660 trades, 3137 calls, 616 retries, elapsed 2.2 min, ETA 1.8 min
+04:54:28 polymarket may2025: 1075/1904 markets (56 %), 655416 trades, 3292 calls, 654 retries, elapsed 2.3 min, ETA 1.8 min
+04:54:39 polymarket may2025: 1100/1904 markets (58 %), 707081 trades, 3563 calls, 725 retries, elapsed 2.5 min, ETA 1.8 min
+04:54:44 polymarket may2025: 1125/1904 markets (59 %), 753873 trades, 3688 calls, 751 retries, elapsed 2.6 min, ETA 1.8 min
+04:54:50 polymarket may2025: 1150/1904 markets (60 %), 792774 trades, 3847 calls, 790 retries, elapsed 2.7 min, ETA 1.7 min
+04:54:55 polymarket may2025: 1175/1904 markets (62 %), 812493 trades, 3972 calls, 820 retries, elapsed 2.7 min, ETA 1.7 min
+04:55:02 polymarket may2025: 1200/1904 markets (63 %), 857590 trades, 4155 calls, 860 retries, elapsed 2.9 min, ETA 1.7 min
+04:55:05 polymarket may2025: 1225/1904 markets (64 %), 901744 trades, 4216 calls, 874 retries, elapsed 2.9 min, ETA 1.6 min
+04:55:07 polymarket may2025: 1250/1904 markets (66 %), 907122 trades, 4263 calls, 890 retries, elapsed 2.9 min, ETA 1.5 min
+04:55:08 polymarket may2025: 1275/1904 markets (67 %), 919047 trades, 4310 calls, 904 retries, elapsed 3.0 min, ETA 1.5 min
+04:55:10 polymarket may2025: 1300/1904 markets (68 %), 943219 trades, 4355 calls, 914 retries, elapsed 3.0 min, ETA 1.4 min
+04:55:11 polymarket may2025: 1325/1904 markets (70 %), 943620 trades, 4396 calls, 928 retries, elapsed 3.0 min, ETA 1.3 min
+04:55:13 polymarket may2025: 1350/1904 markets (71 %), 945097 trades, 4428 calls, 935 retries, elapsed 3.0 min, ETA 1.3 min
+04:55:14 polymarket may2025: 1375/1904 markets (72 %), 947509 trades, 4460 calls, 935 retries, elapsed 3.1 min, ETA 1.2 min
+04:55:17 polymarket may2025: 1400/1904 markets (74 %), 972504 trades, 4522 calls, 949 retries, elapsed 3.1 min, ETA 1.1 min
+04:55:19 polymarket may2025: 1425/1904 markets (75 %), 980827 trades, 4565 calls, 961 retries, elapsed 3.1 min, ETA 1.1 min
+04:55:20 polymarket may2025: 1450/1904 markets (76 %), 986777 trades, 4606 calls, 968 retries, elapsed 3.2 min, ETA 1.0 min
+04:55:22 polymarket may2025: 1475/1904 markets (77 %), 1000575 trades, 4671 calls, 980 retries, elapsed 3.2 min, ETA 0.9 min
+04:55:24 polymarket may2025: 1500/1904 markets (79 %), 1007435 trades, 4705 calls, 986 retries, elapsed 3.2 min, ETA 0.9 min
+04:55:26 polymarket may2025: 1525/1904 markets (80 %), 1009476 trades, 4750 calls, 1000 retries, elapsed 3.3 min, ETA 0.8 min
+04:55:27 polymarket may2025: 1550/1904 markets (81 %), 1014297 trades, 4787 calls, 1005 retries, elapsed 3.3 min, ETA 0.7 min
+04:55:29 polymarket may2025: 1575/1904 markets (83 %), 1020140 trades, 4826 calls, 1014 retries, elapsed 3.3 min, ETA 0.7 min
+04:55:31 polymarket may2025: 1600/1904 markets (84 %), 1022988 trades, 4867 calls, 1028 retries, elapsed 3.3 min, ETA 0.6 min
+04:55:33 polymarket may2025: 1625/1904 markets (85 %), 1022988 trades, 4917 calls, 1042 retries, elapsed 3.4 min, ETA 0.6 min
+04:55:33 polymarket may2025: 1650/1904 markets (87 %), 1024325 trades, 4934 calls, 1042 retries, elapsed 3.4 min, ETA 0.5 min
+04:55:35 polymarket may2025: 1675/1904 markets (88 %), 1027230 trades, 4981 calls, 1057 retries, elapsed 3.4 min, ETA 0.5 min
+04:55:38 polymarket may2025: 1700/1904 markets (89 %), 1031151 trades, 5054 calls, 1073 retries, elapsed 3.5 min, ETA 0.4 min
+04:55:41 polymarket may2025: 1725/1904 markets (91 %), 1041831 trades, 5139 calls, 1099 retries, elapsed 3.5 min, ETA 0.4 min
+04:55:43 polymarket may2025: 1750/1904 markets (92 %), 1056502 trades, 5189 calls, 1107 retries, elapsed 3.5 min, ETA 0.3 min
+04:55:57 polymarket may2025: 1775/1904 markets (93 %), 1156092 trades, 5497 calls, 1177 retries, elapsed 3.8 min, ETA 0.3 min
+04:55:59 polymarket may2025: 1800/1904 markets (95 %), 1187881 trades, 5549 calls, 1190 retries, elapsed 3.8 min, ETA 0.2 min
+04:56:02 polymarket may2025: 1825/1904 markets (96 %), 1196510 trades, 5618 calls, 1206 retries, elapsed 3.9 min, ETA 0.2 min
+04:56:07 polymarket may2025: 1850/1904 markets (97 %), 1222584 trades, 5762 calls, 1239 retries, elapsed 4.0 min, ETA 0.1 min
+04:56:12 polymarket may2025: 1875/1904 markets (98 %), 1273216 trades, 5869 calls, 1267 retries, elapsed 4.0 min, ETA 0.1 min
+04:56:16 polymarket may2025: 1900/1904 markets (100 %), 1301332 trades, 5968 calls, 1287 retries, elapsed 4.1 min, ETA 0.0 min
+04:56:30 polymarket may2025: 1904/1904 markets (100 %), 1353140 trades, 6021 calls, 1287 retries, elapsed 4.3 min, ETA 0.0 min
+may2025 markets 1904 trades 1353140 calls 6021 retries 1287 4.3 min
+poly may2025 exit 0
+04:56:53 scan: windows 1930 (bursts 854); loading sources in parallel
+04:57:07 scan: loaded: posts 972824, kalshi trades 2676806 (raw 2677367), polymarket trades oct2026 0, may2025 1353140; 14s
+04:57:09 scan: books built; scanning 1930 windows with 3 processes; 16s
+04:57:09 scan: scanned 200/1930 (10 %), elapsed 0.3 min
+04:57:09 scan: scanned 400/1930 (21 %), elapsed 0.3 min
+04:57:09 scan: scanned 600/1930 (31 %), elapsed 0.3 min
+04:57:09 scan: scanned 800/1930 (41 %), elapsed 0.3 min
+04:57:09 scan: scanned 1000/1930 (52 %), elapsed 0.3 min
+04:57:09 scan: scanned 1200/1930 (62 %), elapsed 0.3 min
+04:57:10 scan: scanned 1400/1930 (73 %), elapsed 0.3 min
+04:57:10 scan: scanned 1600/1930 (83 %), elapsed 0.3 min
+04:57:10 scan: scanned 1800/1930 (93 %), elapsed 0.3 min
+04:57:10 scan: scanned 1930/1930 (100 %), elapsed 0.3 min
+04:57:11 scan: DONE: per_burst.csv 1930 rows, fires.csv 35156 rows; 18s
+scan maypoly exit 0
+04:57:26 ET polymarket trades oct2026 part 1 started (3132 markets already listed), 16 threads
+04:57:27 polymarket oct2026: 25/3132 markets (1 %), 2595 trades, 45 calls, 0 retries, elapsed 0.0 min, ETA 1.7 min
+04:57:28 polymarket oct2026: 50/3132 markets (2 %), 12795 trades, 77 calls, 0 retries, elapsed 0.0 min, ETA 1.3 min
+04:57:28 polymarket oct2026: 75/3132 markets (2 %), 18568 trades, 104 calls, 0 retries, elapsed 0.0 min, ETA 1.1 min
+04:57:28 polymarket oct2026: 100/3132 markets (3 %), 22568 trades, 130 calls, 0 retries, elapsed 0.0 min, ETA 1.0 min
+04:57:30 polymarket oct2026: 125/3132 markets (4 %), 27017 trades, 189 calls, 0 retries, elapsed 0.1 min, ETA 1.3 min
+04:57:34 polymarket oct2026: 150/3132 markets (5 %), 51027 trades, 307 calls, 32 retries, elapsed 0.1 min, ETA 2.6 min
+04:57:37 polymarket oct2026: 175/3132 markets (6 %), 80249 trades, 369 calls, 47 retries, elapsed 0.2 min, ETA 2.9 min
+04:57:39 polymarket oct2026: 200/3132 markets (6 %), 82488 trades, 423 calls, 63 retries, elapsed 0.2 min, ETA 3.0 min
+04:57:40 polymarket oct2026: 225/3132 markets (7 %), 96203 trades, 469 calls, 75 retries, elapsed 0.2 min, ETA 2.8 min
+04:57:43 polymarket oct2026: 250/3132 markets (8 %), 100811 trades, 526 calls, 92 retries, elapsed 0.3 min, ETA 3.1 min
+04:57:43 polymarket oct2026: 275/3132 markets (9 %), 102584 trades, 552 calls, 94 retries, elapsed 0.3 min, ETA 2.9 min
+04:57:45 polymarket oct2026: 300/3132 markets (10 %), 104931 trades, 601 calls, 106 retries, elapsed 0.3 min, ETA 2.9 min
+04:57:47 polymarket oct2026: 325/3132 markets (10 %), 114474 trades, 646 calls, 121 retries, elapsed 0.3 min, ETA 3.0 min
+04:57:48 polymarket oct2026: 350/3132 markets (11 %), 115425 trades, 681 calls, 129 retries, elapsed 0.4 min, ETA 2.8 min
+04:57:49 polymarket oct2026: 375/3132 markets (12 %), 120823 trades, 717 calls, 139 retries, elapsed 0.4 min, ETA 2.8 min
+04:57:51 polymarket oct2026: 400/3132 markets (13 %), 123905 trades, 759 calls, 153 retries, elapsed 0.4 min, ETA 2.8 min
+04:57:52 polymarket oct2026: 425/3132 markets (14 %), 131208 trades, 790 calls, 154 retries, elapsed 0.4 min, ETA 2.7 min
+04:57:56 polymarket oct2026: 450/3132 markets (14 %), 140166 trades, 867 calls, 183 retries, elapsed 0.5 min, ETA 2.9 min
+04:57:58 polymarket oct2026: 475/3132 markets (15 %), 154308 trades, 924 calls, 198 retries, elapsed 0.5 min, ETA 2.9 min
+04:57:58 polymarket oct2026: 500/3132 markets (16 %), 158802 trades, 955 calls, 204 retries, elapsed 0.5 min, ETA 2.8 min
+04:58:00 polymarket oct2026: 525/3132 markets (17 %), 164260 trades, 1006 calls, 219 retries, elapsed 0.6 min, ETA 2.8 min
+04:58:05 polymarket oct2026: 550/3132 markets (18 %), 183678 trades, 1098 calls, 242 retries, elapsed 0.6 min, ETA 3.0 min
+04:58:07 polymarket oct2026: 575/3132 markets (18 %), 189422 trades, 1144 calls, 256 retries, elapsed 0.7 min, ETA 3.0 min
+04:58:08 polymarket oct2026: 600/3132 markets (19 %), 189945 trades, 1188 calls, 268 retries, elapsed 0.7 min, ETA 2.9 min
+04:58:09 polymarket oct2026: 625/3132 markets (20 %), 191656 trades, 1233 calls, 280 retries, elapsed 0.7 min, ETA 2.9 min
+04:58:11 polymarket oct2026: 650/3132 markets (21 %), 192803 trades, 1265 calls, 284 retries, elapsed 0.7 min, ETA 2.8 min
+04:58:13 polymarket oct2026: 675/3132 markets (22 %), 211228 trades, 1318 calls, 298 retries, elapsed 0.8 min, ETA 2.8 min
+04:58:16 polymarket oct2026: 700/3132 markets (22 %), 215589 trades, 1379 calls, 313 retries, elapsed 0.8 min, ETA 2.9 min
+04:58:18 polymarket oct2026: 725/3132 markets (23 %), 224228 trades, 1442 calls, 327 retries, elapsed 0.9 min, ETA 2.9 min
+04:58:21 polymarket oct2026: 750/3132 markets (24 %), 227952 trades, 1492 calls, 339 retries, elapsed 0.9 min, ETA 2.9 min
+04:58:21 polymarket oct2026: 775/3132 markets (25 %), 231426 trades, 1525 calls, 340 retries, elapsed 0.9 min, ETA 2.8 min
+04:58:23 polymarket oct2026: 800/3132 markets (26 %), 244342 trades, 1568 calls, 354 retries, elapsed 0.9 min, ETA 2.8 min
+04:58:25 polymarket oct2026: 825/3132 markets (26 %), 248464 trades, 1616 calls, 368 retries, elapsed 1.0 min, ETA 2.7 min
+04:58:27 polymarket oct2026: 850/3132 markets (27 %), 263999 trades, 1667 calls, 382 retries, elapsed 1.0 min, ETA 2.7 min
+04:58:29 polymarket oct2026: 875/3132 markets (28 %), 269428 trades, 1714 calls, 398 retries, elapsed 1.0 min, ETA 2.7 min
+04:58:32 polymarket oct2026: 900/3132 markets (29 %), 277776 trades, 1793 calls, 414 retries, elapsed 1.1 min, ETA 2.7 min
+04:58:34 polymarket oct2026: 925/3132 markets (30 %), 284236 trades, 1856 calls, 429 retries, elapsed 1.1 min, ETA 2.7 min
+04:58:36 polymarket oct2026: 950/3132 markets (30 %), 299703 trades, 1907 calls, 443 retries, elapsed 1.2 min, ETA 2.7 min
+04:58:38 polymarket oct2026: 975/3132 markets (31 %), 306809 trades, 1957 calls, 458 retries, elapsed 1.2 min, ETA 2.6 min
+04:58:40 polymarket oct2026: 1000/3132 markets (32 %), 309259 trades, 2002 calls, 470 retries, elapsed 1.2 min, ETA 2.6 min
+04:58:42 polymarket oct2026: 1025/3132 markets (33 %), 313953 trades, 2070 calls, 493 retries, elapsed 1.3 min, ETA 2.6 min
+04:58:46 polymarket oct2026: 1050/3132 markets (34 %), 325761 trades, 2134 calls, 512 retries, elapsed 1.3 min, ETA 2.6 min
+04:58:46 polymarket oct2026: 1075/3132 markets (34 %), 332188 trades, 2157 calls, 512 retries, elapsed 1.3 min, ETA 2.5 min
+04:58:48 polymarket oct2026: 1100/3132 markets (35 %), 333010 trades, 2201 calls, 528 retries, elapsed 1.4 min, ETA 2.5 min
+04:58:49 polymarket oct2026: 1125/3132 markets (36 %), 333010 trades, 2238 calls, 538 retries, elapsed 1.4 min, ETA 2.5 min
+04:58:51 polymarket oct2026: 1150/3132 markets (37 %), 333869 trades, 2283 calls, 551 retries, elapsed 1.4 min, ETA 2.4 min
+04:58:52 polymarket oct2026: 1175/3132 markets (38 %), 333869 trades, 2325 calls, 559 retries, elapsed 1.4 min, ETA 2.4 min
+04:58:54 polymarket oct2026: 1200/3132 markets (38 %), 334140 trades, 2361 calls, 567 retries, elapsed 1.5 min, ETA 2.3 min
+04:58:56 polymarket oct2026: 1225/3132 markets (39 %), 334366 trades, 2406 calls, 583 retries, elapsed 1.5 min, ETA 2.3 min
+04:58:58 polymarket oct2026: 1250/3132 markets (40 %), 334412 trades, 2450 calls, 599 retries, elapsed 1.5 min, ETA 2.3 min
+04:58:58 polymarket oct2026: 1275/3132 markets (41 %), 335389 trades, 2485 calls, 604 retries, elapsed 1.5 min, ETA 2.2 min
+04:59:00 polymarket oct2026: 1300/3132 markets (42 %), 336420 trades, 2537 calls, 624 retries, elapsed 1.6 min, ETA 2.2 min
+04:59:02 polymarket oct2026: 1325/3132 markets (42 %), 340022 trades, 2582 calls, 631 retries, elapsed 1.6 min, ETA 2.2 min
+04:59:05 polymarket oct2026: 1350/3132 markets (43 %), 359919 trades, 2633 calls, 645 retries, elapsed 1.6 min, ETA 2.2 min
+04:59:06 polymarket oct2026: 1375/3132 markets (44 %), 362547 trades, 2666 calls, 659 retries, elapsed 1.7 min, ETA 2.1 min
+04:59:07 polymarket oct2026: 1400/3132 markets (45 %), 364983 trades, 2703 calls, 665 retries, elapsed 1.7 min, ETA 2.1 min
+04:59:09 polymarket oct2026: 1425/3132 markets (45 %), 368407 trades, 2749 calls, 674 retries, elapsed 1.7 min, ETA 2.1 min
+04:59:11 polymarket oct2026: 1450/3132 markets (46 %), 372021 trades, 2794 calls, 690 retries, elapsed 1.7 min, ETA 2.0 min
+04:59:13 polymarket oct2026: 1475/3132 markets (47 %), 372748 trades, 2841 calls, 702 retries, elapsed 1.8 min, ETA 2.0 min
+04:59:15 polymarket oct2026: 1500/3132 markets (48 %), 374729 trades, 2886 calls, 717 retries, elapsed 1.8 min, ETA 2.0 min
+04:59:16 polymarket oct2026: 1525/3132 markets (49 %), 377442 trades, 2919 calls, 725 retries, elapsed 1.8 min, ETA 1.9 min
+04:59:17 polymarket oct2026: 1550/3132 markets (49 %), 379918 trades, 2956 calls, 731 retries, elapsed 1.8 min, ETA 1.9 min
+04:59:19 polymarket oct2026: 1575/3132 markets (50 %), 384284 trades, 3004 calls, 746 retries, elapsed 1.9 min, ETA 1.9 min
+04:59:20 polymarket oct2026: 1600/3132 markets (51 %), 388855 trades, 3043 calls, 751 retries, elapsed 1.9 min, ETA 1.8 min
+04:59:22 polymarket oct2026: 1625/3132 markets (52 %), 392541 trades, 3091 calls, 768 retries, elapsed 1.9 min, ETA 1.8 min
+04:59:25 polymarket oct2026: 1650/3132 markets (53 %), 393347 trades, 3126 calls, 778 retries, elapsed 2.0 min, ETA 1.8 min
+04:59:26 polymarket oct2026: 1675/3132 markets (53 %), 395306 trades, 3157 calls, 778 retries, elapsed 2.0 min, ETA 1.7 min
+04:59:28 polymarket oct2026: 1700/3132 markets (54 %), 406482 trades, 3219 calls, 794 retries, elapsed 2.0 min, ETA 1.7 min
+04:59:30 polymarket oct2026: 1725/3132 markets (55 %), 416354 trades, 3270 calls, 810 retries, elapsed 2.1 min, ETA 1.7 min
+04:59:32 polymarket oct2026: 1750/3132 markets (56 %), 419518 trades, 3316 calls, 825 retries, elapsed 2.1 min, ETA 1.7 min
+04:59:34 polymarket oct2026: 1775/3132 markets (57 %), 420298 trades, 3372 calls, 841 retries, elapsed 2.1 min, ETA 1.6 min
+04:59:37 polymarket oct2026: 1800/3132 markets (57 %), 426388 trades, 3442 calls, 857 retries, elapsed 2.2 min, ETA 1.6 min
+04:59:40 polymarket oct2026: 1825/3132 markets (58 %), 437336 trades, 3523 calls, 886 retries, elapsed 2.2 min, ETA 1.6 min
+04:59:42 polymarket oct2026: 1850/3132 markets (59 %), 446652 trades, 3577 calls, 897 retries, elapsed 2.3 min, ETA 1.6 min
+04:59:44 polymarket oct2026: 1875/3132 markets (60 %), 457134 trades, 3623 calls, 904 retries, elapsed 2.3 min, ETA 1.5 min
+04:59:47 polymarket oct2026: 1900/3132 markets (61 %), 462303 trades, 3677 calls, 920 retries, elapsed 2.3 min, ETA 1.5 min
+04:59:49 polymarket oct2026: 1925/3132 markets (61 %), 491985 trades, 3748 calls, 936 retries, elapsed 2.4 min, ETA 1.5 min
+04:59:54 polymarket oct2026: 1950/3132 markets (62 %), 517274 trades, 3867 calls, 964 retries, elapsed 2.5 min, ETA 1.5 min
+04:59:57 polymarket oct2026: 1975/3132 markets (63 %), 535574 trades, 3946 calls, 982 retries, elapsed 2.5 min, ETA 1.5 min
+05:00:00 polymarket oct2026: 2000/3132 markets (64 %), 550032 trades, 4016 calls, 999 retries, elapsed 2.6 min, ETA 1.4 min
+05:00:04 polymarket oct2026: 2025/3132 markets (65 %), 572745 trades, 4107 calls, 1017 retries, elapsed 2.6 min, ETA 1.4 min
+05:00:06 polymarket oct2026: 2050/3132 markets (65 %), 589468 trades, 4162 calls, 1032 retries, elapsed 2.7 min, ETA 1.4 min
+05:00:07 polymarket oct2026: 2075/3132 markets (66 %), 592937 trades, 4195 calls, 1034 retries, elapsed 2.7 min, ETA 1.4 min
+05:00:09 polymarket oct2026: 2100/3132 markets (67 %), 596754 trades, 4246 calls, 1049 retries, elapsed 2.7 min, ETA 1.3 min
+05:00:11 polymarket oct2026: 2125/3132 markets (68 %), 599189 trades, 4298 calls, 1061 retries, elapsed 2.7 min, ETA 1.3 min
+05:00:16 polymarket oct2026: 2150/3132 markets (69 %), 614617 trades, 4422 calls, 1091 retries, elapsed 2.8 min, ETA 1.3 min
+05:00:19 polymarket oct2026: 2175/3132 markets (69 %), 630287 trades, 4487 calls, 1108 retries, elapsed 2.9 min, ETA 1.3 min
+05:00:22 polymarket oct2026: 2200/3132 markets (70 %), 645080 trades, 4566 calls, 1126 retries, elapsed 2.9 min, ETA 1.2 min
+05:00:24 polymarket oct2026: 2225/3132 markets (71 %), 648342 trades, 4611 calls, 1134 retries, elapsed 3.0 min, ETA 1.2 min
+05:00:26 polymarket oct2026: 2250/3132 markets (72 %), 651399 trades, 4670 calls, 1148 retries, elapsed 3.0 min, ETA 1.2 min
+05:00:29 polymarket oct2026: 2275/3132 markets (73 %), 669152 trades, 4750 calls, 1164 retries, elapsed 3.0 min, ETA 1.1 min
+05:00:35 polymarket oct2026: 2300/3132 markets (73 %), 703397 trades, 4899 calls, 1195 retries, elapsed 3.1 min, ETA 1.1 min
+05:00:40 polymarket oct2026: 2325/3132 markets (74 %), 712520 trades, 4999 calls, 1214 retries, elapsed 3.2 min, ETA 1.1 min
+05:00:42 polymarket oct2026: 2350/3132 markets (75 %), 720317 trades, 5059 calls, 1228 retries, elapsed 3.3 min, ETA 1.1 min
+05:00:43 polymarket oct2026: 2375/3132 markets (76 %), 734528 trades, 5098 calls, 1233 retries, elapsed 3.3 min, ETA 1.0 min
+05:00:45 polymarket oct2026: 2400/3132 markets (77 %), 752069 trades, 5152 calls, 1247 retries, elapsed 3.3 min, ETA 1.0 min
+05:00:47 polymarket oct2026: 2425/3132 markets (77 %), 755032 trades, 5201 calls, 1261 retries, elapsed 3.3 min, ETA 1.0 min
+05:00:49 polymarket oct2026: 2450/3132 markets (78 %), 765736 trades, 5251 calls, 1271 retries, elapsed 3.4 min, ETA 0.9 min
+05:00:52 polymarket oct2026: 2475/3132 markets (79 %), 769519 trades, 5291 calls, 1281 retries, elapsed 3.4 min, ETA 0.9 min
+05:00:56 polymarket oct2026: 2500/3132 markets (80 %), 802535 trades, 5367 calls, 1281 retries, elapsed 3.5 min, ETA 0.9 min
+05:00:58 polymarket oct2026: 2525/3132 markets (81 %), 829173 trades, 5425 calls, 1296 retries, elapsed 3.5 min, ETA 0.8 min
+05:01:02 polymarket oct2026: 2550/3132 markets (81 %), 859701 trades, 5543 calls, 1325 retries, elapsed 3.6 min, ETA 0.8 min
+05:01:05 polymarket oct2026: 2575/3132 markets (82 %), 877310 trades, 5620 calls, 1340 retries, elapsed 3.6 min, ETA 0.8 min
+05:01:09 polymarket oct2026: 2600/3132 markets (83 %), 898690 trades, 5714 calls, 1366 retries, elapsed 3.7 min, ETA 0.8 min
+05:01:12 polymarket oct2026: 2625/3132 markets (84 %), 913332 trades, 5783 calls, 1382 retries, elapsed 3.8 min, ETA 0.7 min
+05:01:16 polymarket oct2026: 2650/3132 markets (85 %), 934193 trades, 5889 calls, 1412 retries, elapsed 3.8 min, ETA 0.7 min
+05:01:19 polymarket oct2026: 2675/3132 markets (85 %), 951529 trades, 5992 calls, 1436 retries, elapsed 3.9 min, ETA 0.7 min
+05:01:26 polymarket oct2026: 2700/3132 markets (86 %), 968225 trades, 6139 calls, 1472 retries, elapsed 4.0 min, ETA 0.6 min
+05:01:30 polymarket oct2026: 2725/3132 markets (87 %), 988258 trades, 6264 calls, 1501 retries, elapsed 4.1 min, ETA 0.6 min
+05:01:37 polymarket oct2026: 2750/3132 markets (88 %), 1025147 trades, 6448 calls, 1554 retries, elapsed 4.2 min, ETA 0.6 min
+05:01:47 polymarket oct2026: 2775/3132 markets (89 %), 1054778 trades, 6671 calls, 1607 retries, elapsed 4.3 min, ETA 0.6 min
+05:01:49 polymarket oct2026: 2800/3132 markets (89 %), 1083147 trades, 6734 calls, 1616 retries, elapsed 4.4 min, ETA 0.5 min
+05:01:52 polymarket oct2026: 2825/3132 markets (90 %), 1111049 trades, 6802 calls, 1640 retries, elapsed 4.4 min, ETA 0.5 min
+05:01:54 polymarket oct2026: 2850/3132 markets (91 %), 1116213 trades, 6860 calls, 1655 retries, elapsed 4.5 min, ETA 0.4 min
+05:01:57 polymarket oct2026: 2875/3132 markets (92 %), 1125701 trades, 6924 calls, 1669 retries, elapsed 4.5 min, ETA 0.4 min
+05:01:59 polymarket oct2026: 2900/3132 markets (93 %), 1143435 trades, 6976 calls, 1685 retries, elapsed 4.5 min, ETA 0.4 min
+05:02:01 polymarket oct2026: 2925/3132 markets (93 %), 1145665 trades, 7025 calls, 1701 retries, elapsed 4.6 min, ETA 0.3 min
+05:02:02 polymarket oct2026: 2950/3132 markets (94 %), 1150855 trades, 7070 calls, 1705 retries, elapsed 4.6 min, ETA 0.3 min
+05:02:08 polymarket oct2026: 2975/3132 markets (95 %), 1166447 trades, 7222 calls, 1747 retries, elapsed 4.7 min, ETA 0.2 min
+05:02:11 polymarket oct2026: 3000/3132 markets (96 %), 1177874 trades, 7302 calls, 1768 retries, elapsed 4.7 min, ETA 0.2 min
+05:02:13 polymarket oct2026: 3025/3132 markets (97 %), 1186234 trades, 7353 calls, 1780 retries, elapsed 4.8 min, ETA 0.2 min
+05:02:17 polymarket oct2026: 3050/3132 markets (97 %), 1200050 trades, 7431 calls, 1806 retries, elapsed 4.8 min, ETA 0.1 min
+05:02:19 polymarket oct2026: 3075/3132 markets (98 %), 1220253 trades, 7500 calls, 1822 retries, elapsed 4.9 min, ETA 0.1 min
+05:02:21 polymarket oct2026: 3100/3132 markets (99 %), 1231172 trades, 7559 calls, 1839 retries, elapsed 4.9 min, ETA 0.1 min
+05:02:25 polymarket oct2026: 3125/3132 markets (100 %), 1246593 trades, 7628 calls, 1850 retries, elapsed 5.0 min, ETA 0.0 min
+05:04:24 polymarket oct2026: 3132/3132 markets (100 %), 1411495 trades, 8126 calls, 1850 retries, elapsed 7.0 min, ETA 0.0 min
+oct2026 markets 3132 trades 1411495 calls 8126 retries 1850 7.0 min
+poly oct2026 part1 exit 0
+05:04:57 scan: windows 1930 (bursts 854); loading sources in parallel
+05:05:14 scan: loaded: posts 972824, kalshi trades 2676806 (raw 2677367), polymarket trades oct2026 1411495, may2025 1353140; 16s
+05:05:17 scan: books built; scanning 1930 windows with 3 processes; 19s
+05:05:17 scan: scanned 200/1930 (10 %), elapsed 0.3 min
+05:05:17 scan: scanned 400/1930 (21 %), elapsed 0.3 min
+05:05:18 scan: scanned 600/1930 (31 %), elapsed 0.3 min
+05:05:18 scan: scanned 800/1930 (41 %), elapsed 0.3 min
+05:05:18 scan: scanned 1000/1930 (52 %), elapsed 0.3 min
+05:05:19 scan: scanned 1200/1930 (62 %), elapsed 0.4 min
+05:05:19 scan: scanned 1400/1930 (73 %), elapsed 0.4 min
+05:05:19 scan: scanned 1600/1930 (83 %), elapsed 0.4 min
+05:05:19 scan: scanned 1800/1930 (93 %), elapsed 0.4 min
+05:05:20 scan: scanned 1930/1930 (100 %), elapsed 0.4 min
+05:05:20 scan: DONE: per_burst.csv 1930 rows, fires.csv 39889 rows; 23s
+final scan exit 0
