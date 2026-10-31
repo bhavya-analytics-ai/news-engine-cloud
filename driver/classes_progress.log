@@ -1,0 +1,26 @@
+05:21:04 START: expected 5-10 min; loading items
+05:21:08 items 972824 loaded, 3s; building classes
+05:21:08 relay3 8543, relay5 3, surge_channel 8673, surge_all 9355 events; 4s
+05:21:08 windows 1930, already on disk 0, to do 1930
+05:21:08 windows 100/1930 (5 %), elapsed 0.0 min, ETA 0.1 min
+05:21:09 windows 200/1930 (10 %), elapsed 0.0 min, ETA 0.0 min
+05:21:09 windows 300/1930 (16 %), elapsed 0.0 min, ETA 0.0 min
+05:21:09 windows 400/1930 (21 %), elapsed 0.0 min, ETA 0.0 min
+05:21:09 windows 500/1930 (26 %), elapsed 0.0 min, ETA 0.0 min
+05:21:09 windows 600/1930 (31 %), elapsed 0.0 min, ETA 0.0 min
+05:21:09 windows 700/1930 (36 %), elapsed 0.0 min, ETA 0.0 min
+05:21:09 windows 800/1930 (41 %), elapsed 0.0 min, ETA 0.0 min
+05:21:09 windows 900/1930 (47 %), elapsed 0.0 min, ETA 0.0 min
+05:21:10 windows 1000/1930 (52 %), elapsed 0.0 min, ETA 0.0 min
+05:21:10 windows 1100/1930 (57 %), elapsed 0.0 min, ETA 0.0 min
+05:21:10 windows 1200/1930 (62 %), elapsed 0.0 min, ETA 0.0 min
+05:21:10 windows 1300/1930 (67 %), elapsed 0.0 min, ETA 0.0 min
+05:21:10 windows 1400/1930 (73 %), elapsed 0.0 min, ETA 0.0 min
+05:21:10 windows 1500/1930 (78 %), elapsed 0.0 min, ETA 0.0 min
+05:21:10 windows 1600/1930 (83 %), elapsed 0.0 min, ETA 0.0 min
+05:21:11 windows 1700/1930 (88 %), elapsed 0.0 min, ETA 0.0 min
+05:21:11 windows 1800/1930 (93 %), elapsed 0.0 min, ETA 0.0 min
+05:21:11 windows 1900/1930 (98 %), elapsed 0.0 min, ETA 0.0 min
+05:21:11 windows 1930/1930 (100 %), elapsed 0.0 min, ETA 0.0 min
+05:21:11 DONE 7s
+classes exit 0
