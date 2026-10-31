@@ -1,0 +1,3 @@
+{"id": 579897, "trade": 0, "channel": "megacap", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "Price move only, likely earnings reaction; not a ban, outage, or ruling"}
+{"id": 580167, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": -1, "magnitude": 2, "novelty": "update", "duration": "medium", "confidence": 0.65, "reason": "UKMTO confirms second Hormuz tanker hit today after morning mine strikes"}
+{"id": 580204, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": -1, "magnitude": 1, "novelty": "update", "duration": "medium", "confidence": 0.5, "reason": "Trump threatens Iran military action, allies told prepare; escalation building"}
