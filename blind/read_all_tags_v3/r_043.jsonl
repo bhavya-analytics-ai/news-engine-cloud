@@ -1,0 +1,50 @@
+{"id": 8909320, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Index price move report, not news"}
+{"id": 7815337, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Meeting confirmation, no escalation or de-escalation content"}
+{"id": 6359783, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Rocket launch visual, irrelevant"}
+{"id": 5449096, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Official comment on diesel prices, no action"}
+{"id": 8614285, "trade": 0, "channel": "credit_crypto", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "short", "confidence": 0.35, "reason": "CoreWeave bond slide, price move not default or stress event"}
+{"id": 9999778, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.3, "reason": "Mediation continues, vague, no deal"}
+{"id": 5868962, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.3, "reason": "Conditional threat to Hezbollah, no action"}
+{"id": 6032480, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.35, "reason": "Lebanon advance readiness, threat rung only"}
+{"id": 2246247, "trade": 1, "channel": "geopolitics_oil", "sign": 1, "surprise": 1, "magnitude": 2, "novelty": "new", "duration": "medium", "confidence": 0.55, "reason": "US-approved proposal gets preliminary Iranian agreement, de-escalation, media report"}
+{"id": 5882367, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "medium", "confidence": 0.4, "reason": "Detail of same proposal two minutes later, no new rung"}
+{"id": 4402077, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Private AI deal talks, not tradable channel"}
+{"id": 9904222, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "GDPNow model tweak, no consensus, tiny change"}
+{"id": 9172105, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Single-stock price move report"}
+{"id": 9873275, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.35, "reason": "Past near-strike report, no-strike pledge stands, mixed"}
+{"id": 2113767, "trade": 0, "channel": "tariffs_trade", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.35, "reason": "Positive tone on Mexico deal, no decision"}
+{"id": 5152363, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market move recap, not news"}
+{"id": 2529895, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "Paris curfew, irrelevant to MNQ"}
+{"id": 3115247, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Small grid funding, no index impact"}
+{"id": 8372884, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Oil settlement price report"}
+{"id": 8066290, "trade": 0, "channel": "megacap", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Megacap supply deal, not magnitude-3 event"}
+{"id": 6266774, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Natgas settlement price"}
+{"id": 1745502, "trade": 0, "channel": "megacap", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Megacap capex story, not magnitude-3"}
+{"id": 2240317, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "medium", "confidence": 0.35, "reason": "Iran ops delayed past midterms per source, mixed"}
+{"id": 8961124, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.3, "reason": "Exercises near Iran per foreign reports, threat only"}
+{"id": 6470358, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Generic Trump budget remark"}
+{"id": 1686103, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Generic Trump growth remark"}
+{"id": 2501247, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Relay of same Trump remarks"}
+{"id": 8419367, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market commentary, no event"}
+{"id": 6809183, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.25, "reason": "Rhetoric on ending Ukraine war, no decision"}
+{"id": 5153361, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Prisoner request, irrelevant"}
+{"id": 2820282, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "medium", "confidence": 0.3, "reason": "Peace deal format comment, no agreement"}
+{"id": 7772782, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Promotional post"}
+{"id": 8101614, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Netflix guidance, earnings not tradable here"}
+{"id": 6008541, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Netflix earnings detail, not tradable"}
+{"id": 6179616, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "SpaceX earnings, not tradable channel"}
+{"id": 7347081, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "SpaceX earnings detail"}
+{"id": 7816879, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "SpaceX earnings relay"}
+{"id": 5941053, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Closing price report"}
+{"id": 8081403, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Earnings header only"}
+{"id": 5137738, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Earnings header only"}
+{"id": 9155095, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Netflix earnings summary relay"}
+{"id": 7705196, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "SpaceX segment earnings detail"}
+{"id": 5030484, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Netflix earnings relay"}
+{"id": 2550725, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Netflix guidance relay"}
+{"id": 9043596, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Netflix FY guidance relay"}
+{"id": 4189369, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Local chip plant politics, irrelevant"}
+{"id": 3810677, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "SpaceX earnings relay"}
+{"id": 8319340, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "SpaceX earnings relay"}
+{"id": 5975015, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "Local chip plant talks, irrelevant"}
+{"id": 9862170, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.3, "reason": "Tasnim denial of Qatar delegation, after-hours, minor"}

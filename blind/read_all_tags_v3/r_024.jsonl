@@ -1,0 +1,50 @@
+{"id": 1797868, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Opening imbalance flow data, not news"}
+{"id": 6807412, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "EU-China hybrid accord already reported at 09:26"}
+{"id": 4159819, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "Summary of Sefcovic remarks already in context"}
+{"id": 2669824, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.3, "reason": "Duplicate headline seconds later"}
+{"id": 5151015, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "SpaceX spectrum deal, not a covered megacap"}
+{"id": 2438639, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Index levels after open, no news"}
+{"id": 2521087, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.3, "reason": "Sefcovic restating good results, no new rung"}
+{"id": 3410040, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.4, "reason": "Houthi roadblocks near Bab al-Mandeb, single unverified source"}
+{"id": 4874234, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "update", "duration": "medium", "confidence": 0.5, "reason": "Dense Houthi mining of Bab al-Mandab, chokepoint escalation rung"}
+{"id": 8853460, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Domestic political post, no market channel"}
+{"id": 2875422, "trade": 0, "channel": "credit_crypto", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.4, "reason": "Reported $86M wallet drain, modest size, unconfirmed"}
+{"id": 6581881, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Continued dialogue on medical devices, no decision"}
+{"id": 8515521, "trade": 0, "channel": "china", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "Boilerplate Chinese retaliation rhetoric, no action"}
+{"id": 6227229, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Generic Chinese statement, no decision"}
+{"id": 6573621, "trade": 0, "channel": "china", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.3, "reason": "Same retaliation rhetoric seconds earlier"}
+{"id": 1571329, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Diplomatic tracker article, no news"}
+{"id": 1530087, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local US political story"}
+{"id": 4961593, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Canadian jobs print, no prior or consensus, not US"}
+{"id": 6199840, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Cultural feature, irrelevant"}
+{"id": 4582422, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Fed survey statistic, no policy content"}
+{"id": 7747978, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Analysis piece on yuan, no event"}
+{"id": 9119004, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local Hong Kong border news"}
+{"id": 5167151, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local bribery charge, irrelevant"}
+{"id": 9363791, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local Hong Kong policing story"}
+{"id": 8301994, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Awards feature, irrelevant"}
+{"id": 1497853, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Industry reaction to already-known EU-China deal"}
+{"id": 8292691, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "News digest, no new fact"}
+{"id": 3104595, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "medium", "confidence": 0.3, "reason": "Unexplained boom near Aden, residents only"}
+{"id": 6316089, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Feature article, irrelevant"}
+{"id": 5939422, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Iranian rhetoric toward France, no action"}
+{"id": 1564692, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Awards feature, irrelevant"}
+{"id": 3983227, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local bid-rigging raid"}
+{"id": 9941544, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local trial news"}
+{"id": 1412308, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "Sourced scheduling note on Trump China visit, no decision"}
+{"id": 8848835, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local crime news"}
+{"id": 2308205, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Malaysia budget, irrelevant to MNQ"}
+{"id": 7597463, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Routine South China Sea blame exchange"}
+{"id": 4053097, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Sentiment index reading, no news"}
+{"id": 3296781, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Feature article, irrelevant"}
+{"id": 6836764, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Crypto sentiment index, no news"}
+{"id": 3824723, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Nobel Peace Prize award, no market channel"}
+{"id": 3039614, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Opinion piece"}
+{"id": 2058124, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Chinese state funding of legacy chipmaker, minor"}
+{"id": 1285438, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Microsoft product launch, not a magnitude-3 event"}
+{"id": 7535155, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Panama tsunami warning, no mapped channel"}
+{"id": 9379344, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Follow-up on Microsoft model launch"}
+{"id": 4256836, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.3, "reason": "Russia sanctions demand in truce talks, no deal"}
+{"id": 9325125, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Panama earthquake, natural disaster outside map"}
+{"id": 5981744, "trade": 1, "channel": "geopolitics_oil", "sign": 1, "surprise": 1, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.5, "reason": "Trump announces Russian diesel supply, energy deal signal"}
+{"id": 8443057, "trade": 1, "channel": "geopolitics_oil", "sign": 1, "surprise": 1, "magnitude": 1, "novelty": "update", "duration": "medium", "confidence": 0.5, "reason": "Larger Russian diesel volumes added, deal expanding"}

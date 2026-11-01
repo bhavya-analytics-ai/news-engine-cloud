@@ -1,0 +1,50 @@
+{"id": 9275209, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "EU-China trade comment, not a US decision"}
+{"id": 8227206, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Ukraine-US intel cooperation continues, no market channel"}
+{"id": 2192944, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Single-stock analyst downgrade"}
+{"id": 3568053, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "BoK procedural review, irrelevant to MNQ"}
+{"id": 4124265, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "UnitedHealth earnings, not a megacap event"}
+{"id": 3171378, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "J&J earnings, not tradable channel"}
+{"id": 2609153, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "J&J earnings relay"}
+{"id": 2361951, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "German rhetoric on Iran, no action"}
+{"id": 5441662, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.3, "reason": "Recap of known Houthi attacks, no new rung"}
+{"id": 6422924, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Analyst consumer survey"}
+{"id": 1832426, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Ukraine intel support claim, contradicts earlier, unclear market impact"}
+{"id": 1301272, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Ghost fleet tanker seizure yesterday, minor oil relevance"}
+{"id": 2215166, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Opening imbalance data, not news"}
+{"id": 5393098, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market open price recap"}
+{"id": 1314672, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Private company valuation"}
+{"id": 7255925, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Trump opinion remark from Monday, no decision"}
+{"id": 8169497, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Bank CEO generic economy comment"}
+{"id": 9389783, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of Goldman CEO comment"}
+{"id": 3779622, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.4, "reason": "Houthi threat against Riyadh, militia statement only"}
+{"id": 9341600, "trade": 0, "channel": "credit_crypto", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Wallet reseller issue, no device compromise"}
+{"id": 4964929, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Briefing start notice, no content"}
+{"id": 4615174, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Bank CEO outlook commentary"}
+{"id": 4463253, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Price-action recap of chip selloff, no catalyst"}
+{"id": 7079811, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Price-action recap of memory selloff"}
+{"id": 9312672, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Rating agency commentary on yields, no action"}
+{"id": 9613056, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Bank CEO AI commentary"}
+{"id": 1840742, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "new", "duration": "medium", "confidence": 0.5, "reason": "Airstrikes on Sanaa after Houthi threat, Saudi-Houthi escalation"}
+{"id": 6737673, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "update", "duration": "medium", "confidence": 0.55, "reason": "Coalition targets Sanaa oil station, escalation rung toward oil infrastructure"}
+{"id": 8604162, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Ambassador resignation, no market channel"}
+{"id": 2852825, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Human interest story"}
+{"id": 9982726, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "update", "duration": "medium", "confidence": 0.6, "reason": "Houthis confirm Saudi attacks on Sanaa"}
+{"id": 5501511, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "new", "duration": "medium", "confidence": 0.5, "reason": "Tanker on fire near Hormuz per Iranian state media"}
+{"id": 7426403, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Local human interest story"}
+{"id": 4093124, "trade": 1, "channel": "growth_data", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.5, "reason": "Existing home sales 3.99M beat 3.95M consensus"}
+{"id": 7513969, "trade": 0, "channel": "growth_data", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "Same home sales release, m/m detail"}
+{"id": 4872754, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Domestic political comment"}
+{"id": 5835155, "trade": 0, "channel": "growth_data", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "Relay of same home sales print"}
+{"id": 4590190, "trade": 0, "channel": "growth_data", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "Relay of same home sales print"}
+{"id": 6055844, "trade": 0, "channel": "growth_data", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "Relay of same home sales print"}
+{"id": 4134985, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Human interest story"}
+{"id": 1539002, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Report headline, no new data"}
+{"id": 9328248, "trade": 0, "channel": "growth_data", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "Summary of same home sales print"}
+{"id": 4630937, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Broker product launch"}
+{"id": 5280930, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Local crime story"}
+{"id": 9249549, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Broker product launch detail"}
+{"id": 4349957, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Minor China licensing approval for Visa"}
+{"id": 1102208, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.0, "reason": "Repeat of ambassador resignation"}
+{"id": 5202639, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Local transport story"}
+{"id": 9406919, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 3, "novelty": "update", "duration": "medium", "confidence": 0.55, "reason": "Airstrikes hit Sanaa oil station, oil-infrastructure rung"}
+{"id": 6128628, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.0, "reason": "Science story"}

@@ -1,0 +1,50 @@
+{"id": 9233223, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "UK defense target already reported at 09:22; not MNQ-relevant"}
+{"id": 2748466, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Putin praise of Musk; no market channel"}
+{"id": 4545631, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK budget housing detail; no MNQ channel"}
+{"id": 1320290, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK budget VAT housing detail; no MNQ channel"}
+{"id": 2127842, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK budget rhetoric; no content"}
+{"id": 6098203, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK budget speech ends; procedural"}
+{"id": 9308453, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Longer relay of Putin-Musk remark; no market channel"}
+{"id": 7950221, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "UK gilt remit roughly in line with poll; not Fed"}
+{"id": 6301608, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.25, "reason": "World Bank annual forecast, not a new event"}
+{"id": 2582264, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of gilt remit headline"}
+{"id": 3345685, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.25, "reason": "World Bank energy price forecast; known war backdrop, no new rung"}
+{"id": 8541557, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "World Bank commodity outlook; forecast only"}
+{"id": 3709858, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Opening imbalance flow data; not news"}
+{"id": 4627121, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Conditional World Bank risk statement, no event"}
+{"id": 5788529, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "World Bank adverse scenario commentary"}
+{"id": 2039489, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "World Bank food price forecast"}
+{"id": 3533864, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "World Bank metals forecast"}
+{"id": 1943341, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "World Bank precious metals forecast"}
+{"id": 3408726, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "World Bank support figures; no market channel"}
+{"id": 3232986, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK OBR uncertainty boilerplate"}
+{"id": 3505574, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK gilt remit split detail"}
+{"id": 3034432, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK linker auction detail"}
+{"id": 7899681, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK linker syndication detail"}
+{"id": 5937760, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of OBR uncertainty line"}
+{"id": 9589027, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Index open levels; not news"}
+{"id": 4800675, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK OBR conditional borrowing scenario"}
+{"id": 2327569, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Bolsonaro arrival confirmed; no MNQ channel"}
+{"id": 4713338, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK borrowing projection; not MNQ channel"}
+{"id": 7164977, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK borrowing projection; not MNQ channel"}
+{"id": 8091542, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.15, "reason": "UK OBR inflation forecast; not a print, not Fed"}
+{"id": 5659296, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK OBR sensitivity analysis"}
+{"id": 2323871, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK OBR productivity sensitivity"}
+{"id": 6471313, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK OBR fiscal margin commentary"}
+{"id": 9122954, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.15, "reason": "UK OBR 2027 inflation forecast; UK only"}
+{"id": 5686185, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK OBR conditional energy scenario"}
+{"id": 7182349, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK fiscal headroom; not MNQ channel"}
+{"id": 5243547, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK OBR conditional scenario"}
+{"id": 1888197, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of 09:33 borrowing line"}
+{"id": 5033239, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of 09:34 OBR scenario"}
+{"id": 8328836, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Summary relay of OBR lines already out"}
+{"id": 7382025, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.35, "reason": "EU gas price milestone; market level, no ladder event"}
+{"id": 1107480, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of World Bank metals forecast"}
+{"id": 5540807, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of World Bank conditional risk"}
+{"id": 9841723, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of World Bank commodity forecast"}
+{"id": 1069791, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK OBR CPI peak forecast; UK only"}
+{"id": 5646733, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK borrowing forecast; not MNQ channel"}
+{"id": 6783879, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK borrowing forecast revision; not MNQ channel"}
+{"id": 3723493, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK tax-to-GDP forecast"}
+{"id": 1143267, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Repeat of EU gas €100 headline"}
+{"id": 7565412, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK borrowing forecast revision; not MNQ channel"}

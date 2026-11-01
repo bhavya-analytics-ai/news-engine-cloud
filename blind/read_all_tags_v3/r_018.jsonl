@@ -1,0 +1,50 @@
+{"id": 2342203, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Biotech feature article, no macro relevance"}
+{"id": 3690730, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "medium", "confidence": 0.4, "reason": "Same Hormuz 'illegal routes' threat reported three minutes earlier"}
+{"id": 7414233, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Italy EU budget request, irrelevant to MNQ"}
+{"id": 6398874, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "EU-China trade talks commentary, no decision"}
+{"id": 8914866, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market price report, not news"}
+{"id": 9186008, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Duplicate Stoxx price report"}
+{"id": 8339703, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local crime, no market channel"}
+{"id": 6847661, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Anniversary story, no new event"}
+{"id": 1477326, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local crime story"}
+{"id": 5557721, "trade": 1, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.55, "reason": "US 30-year yield 24-year high, bond selloff resuming"}
+{"id": 7570219, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.3, "reason": "Routine Ukraine strikes, no oil or escalation rung"}
+{"id": 3425106, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Singapore diplomatic comment"}
+{"id": 2717371, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Malaysian state election"}
+{"id": 8634052, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "medium", "confidence": 0.3, "reason": "Weapons range rhetoric already reported at 06:41"}
+{"id": 8812804, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Petty crime story"}
+{"id": 5192703, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Science roundup"}
+{"id": 5031805, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Local transport notice"}
+{"id": 2230472, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Renault factory story, no macro channel"}
+{"id": 6764657, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Gaza feature, no new escalation"}
+{"id": 6220798, "trade": 0, "channel": "credit_crypto", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Crypto treasury buying comment, no stress event"}
+{"id": 8984299, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Opinion piece"}
+{"id": 4181805, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Strategist note, no event"}
+{"id": 4070352, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Analysis piece"}
+{"id": 3836622, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "medium", "confidence": 0.3, "reason": "Market wrap recapping known Hormuz tensions"}
+{"id": 6046107, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "medium", "confidence": 0.3, "reason": "Hormuz disruption status quo, no new rung"}
+{"id": 9977284, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Ambiguous Iranian remark on Vance, no sign"}
+{"id": 8879760, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "new", "duration": "medium", "confidence": 0.4, "reason": "Unconfirmed claim of Yemeni missiles at Aramco sites"}
+{"id": 3950930, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Effective Fed funds unchanged, routine"}
+{"id": 3053774, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Routine ECB balance sheet data"}
+{"id": 8373596, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Routine ECB balance sheet data"}
+{"id": 7311108, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Monthly EM flow statistic"}
+{"id": 4752728, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Routine ECB holdings data"}
+{"id": 8686874, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "ECB gold revaluation data"}
+{"id": 4696152, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Immigration fee report, outside mapped channels"}
+{"id": 1623597, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Duplicate ECB gold data"}
+{"id": 5159810, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Megacap investment deal, not magnitude-3"}
+{"id": 3228160, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Rubio rhetoric, no action"}
+{"id": 4166505, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Nvidia investment talks, deal not tradable"}
+{"id": 9566228, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Duplicate Nvidia Figure investment report"}
+{"id": 9344031, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Meta policy update, no regulatory force"}
+{"id": 4435392, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Technical strategist note"}
+{"id": 4863029, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "SEC report on climate group, irrelevant"}
+{"id": 4491283, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Turkish parliamentary procedure, unclear market impact"}
+{"id": 4819006, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Order imbalance flow data, not news"}
+{"id": 2914237, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Financing for Nvidia chips, not tradable category"}
+{"id": 3258215, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market open price report"}
+{"id": 7658247, "trade": 1, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "short", "confidence": 0.5, "reason": "Gilt 30-year highest since 1998, global yield spike extends"}
+{"id": 9741694, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Political art story"}
+{"id": 4793139, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "short", "confidence": 0.4, "reason": "Duplicate gilt yield headline two minutes later"}
+{"id": 8826074, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Diplomatic cooperation statement, no escalation"}

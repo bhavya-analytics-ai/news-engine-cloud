@@ -1,0 +1,50 @@
+{"id": 2880935, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Biogen earnings, not a megacap; no macro channel"}
+{"id": 5012425, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "GE Vernova acquisition, corporate deal outside map"}
+{"id": 3518778, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "GE Vernova orders commentary, not a megacap event"}
+{"id": 6101391, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Russia denies US oil project talks; no escalation rung"}
+{"id": 5143198, "trade": 0, "channel": "china", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "Pakistan airspace ban on Taiwan carriers; symbolic, minor"}
+{"id": 2965535, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "GE Vernova earnings beat, not a megacap; earnings trade 0"}
+{"id": 4614641, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Spanish train crash, no market channel"}
+{"id": 5540007, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Malaysian politics feature article"}
+{"id": 7685408, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "PetroChina earnings, outside map"}
+{"id": 6569622, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Phillips 66 earnings, outside map"}
+{"id": 9106335, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "medium", "confidence": 0.3, "reason": "Unconfirmed report of US-Russia Nord Stream talks; aggregator relay"}
+{"id": 4483952, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "ADP company earnings, not the jobs report"}
+{"id": 1258229, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "MBA applications, no prior or consensus"}
+{"id": 3154115, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "MBA mortgage rate, no consensus, minor"}
+{"id": 2532835, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "France jobseekers, irrelevant to MNQ"}
+{"id": 4429569, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of MBA data already relayed"}
+{"id": 3274704, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Israeli election partial count, no market channel"}
+{"id": 1521908, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "AEP utility earnings, outside map"}
+{"id": 9045545, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK budget small business rate relief, local"}
+{"id": 1744204, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Spanish train crash toll update, no market channel"}
+{"id": 1257602, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "UK rate relief detail, repeat"}
+{"id": 4672733, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.15, "reason": "UK OBR forecasts, UK-specific, no US channel"}
+{"id": 7108342, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK budget measures, domestic, no MNQ channel"}
+{"id": 4925871, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK gaming duty, irrelevant"}
+{"id": 3789727, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK gambling tax"}
+{"id": 6192657, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK asset disposal relief, domestic"}
+{"id": 9927375, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK income tax changes, domestic"}
+{"id": 9120128, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK cash ISA unchanged, domestic"}
+{"id": 3996667, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK property and savings tax"}
+{"id": 1943915, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK cash ISA detail"}
+{"id": 7371675, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "UK bank surcharge raise, UK banks only"}
+{"id": 2839971, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.0, "reason": "Promotional feed message"}
+{"id": 5191112, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Effective fed funds unchanged, routine"}
+{"id": 8504834, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK bank surcharge"}
+{"id": 4124143, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK national wealth fund spending, domestic"}
+{"id": 2356745, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.15, "reason": "Lavrov to attend G20 meeting, scheduled diplomacy"}
+{"id": 2306695, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK wealth fund item"}
+{"id": 8625547, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK welfare and pension reform, domestic"}
+{"id": 3750299, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "UK Ukraine aid, no escalation rung"}
+{"id": 6278126, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Russia-Azerbaijan gas swap talk, minor"}
+{"id": 1913094, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK NATO spending plan, domestic fiscal"}
+{"id": 1654020, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK NATO defense commitment"}
+{"id": 4137129, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK pension savings"}
+{"id": 8058030, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK triple lock savings"}
+{"id": 9525541, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Repeat of UK Ukraine support"}
+{"id": 3409698, "trade": 0, "channel": "credit_crypto", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Phantom wallet product rollout, no stress event"}
+{"id": 6710505, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK housing spending, domestic"}
+{"id": 2175073, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK ISA product change, domestic"}
+{"id": 5977020, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "UK first home funding, domestic"}
+{"id": 6226315, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Brazil politics, no market channel"}

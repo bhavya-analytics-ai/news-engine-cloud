@@ -1,0 +1,50 @@
+{"id": 9149234, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "UK OBR fiscal detail, no MNQ channel"}
+{"id": 9264009, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "UK fiscal mandate probability, not an MNQ driver"}
+{"id": 9024155, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Newsletter opinion on Fed hawkish pause, not a decision"}
+{"id": 1453099, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Relay of OBR fiscal mandate probability"}
+{"id": 3142344, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Repeat of £65bn UK borrowing revision"}
+{"id": 3307618, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Opinion piece on debt ceiling, no event"}
+{"id": 7025745, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Analysis piece on Kim China trip"}
+{"id": 2140282, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "World Bank commodity forecasts, no escalation rung"}
+{"id": 4278175, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Relay of OBR energy scenario"}
+{"id": 3462567, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "OBR scenario commentary, no decision"}
+{"id": 3759461, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Repeat of EU gas €100 headline"}
+{"id": 6026633, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "OBR report link, no new fact"}
+{"id": 7582146, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK fuel duty cost detail"}
+{"id": 1046514, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK fiscal headroom detail"}
+{"id": 8312163, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK carbon border tax plan, not US tariffs"}
+{"id": 3689394, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "BoC hike 25bp as expected, foreign, priced"}
+{"id": 7842834, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Repeat of expected BoC hike"}
+{"id": 2004097, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "BoC 2.5% matches forecast, repeat"}
+{"id": 6307583, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "BoC oil assumption, no event"}
+{"id": 9726691, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Brazil politics, no MNQ channel"}
+{"id": 1765287, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "BoC CPI projection, foreign forecast"}
+{"id": 4112593, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Statement link only"}
+{"id": 3944681, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "BoC inflation projection, foreign"}
+{"id": 4057798, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.3, "reason": "BoC hawkish guidance, foreign, limited Nasdaq relevance"}
+{"id": 1442646, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoC GDP forecast detail"}
+{"id": 2219243, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "BoC hike rationale, already known"}
+{"id": 1047763, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "BoC inflation forecast detail"}
+{"id": 8197871, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoC excess supply comment"}
+{"id": 9665518, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "BoC inflation forecast table, foreign"}
+{"id": 5210709, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoC growth forecast detail"}
+{"id": 7090808, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoC potential output detail"}
+{"id": 7031429, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoC neutral rate assumption"}
+{"id": 8483945, "trade": 0, "channel": "tariffs_trade", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "BoC assumption on USMCA exemptions, no decision"}
+{"id": 1812160, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoC Brent assumption"}
+{"id": 6167309, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Macklem boilerplate meeting-by-meeting"}
+{"id": 8548325, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Relay of BoC statement hawkish lean"}
+{"id": 1214558, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Macklem rationale, foreign"}
+{"id": 2637402, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "BoC outlook summary, repeat"}
+{"id": 3227562, "trade": 0, "channel": "rates_fed", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.2, "reason": "Relay of BoC may hike again"}
+{"id": 3281341, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Macklem repeats hike rationale"}
+{"id": 2090820, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Macklem commentary on slack"}
+{"id": 6456214, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of BoC growth projection"}
+{"id": 5837538, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Summary of BoC forecasts already relayed"}
+{"id": 4002806, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Macklem repeats energy hike rationale"}
+{"id": 7135776, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Talks format detail, no ladder change"}
+{"id": 2031116, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK headroom detail"}
+{"id": 4857766, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of UK headroom figure"}
+{"id": 2107694, "trade": 0, "channel": "rates_fed", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Goldman view of fewer hikes, analyst opinion not decision"}
+{"id": 7666324, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Azov grain exports resume, minor, not oil"}
+{"id": 5143940, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK DMO repo facility, technical"}

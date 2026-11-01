@@ -1,0 +1,50 @@
+{"id": 8638438, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Anthropic S-1 risk factor; not a megacap channel event"}
+{"id": 9471052, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.3, "reason": "Brazil exchange halt; EM stress, no mapped Nasdaq channel"}
+{"id": 9634031, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Stablecoin adoption statistic, not an event"}
+{"id": 2392721, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Opening imbalance data, no news"}
+{"id": 8410337, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "Iran talks scope comment; no escalation or deal"}
+{"id": 8506842, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.35, "reason": "Iranian rhetoric on nuclear talks; no action, low impact"}
+{"id": 5618493, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market open price recap"}
+{"id": 6429688, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Tesla price move, not a magnitude-3 event"}
+{"id": 2610707, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of Anthropic risk-factor headline"}
+{"id": 9187297, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Routine Russia-Turkey shipping contact"}
+{"id": 2987888, "trade": 0, "channel": "credit_crypto", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.3, "reason": "MUFG IT service halt, not bank stress"}
+{"id": 5026400, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Anthropic S-1 risk recap, repeat"}
+{"id": 8048743, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.3, "reason": "Brazil real slump extends; no mapped Nasdaq channel"}
+{"id": 7743650, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "ECB succession chatter, no decision"}
+{"id": 8784793, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "update", "duration": "medium", "confidence": 0.4, "reason": "Unconfirmed explosions near Hormuz; vague source, no attribution"}
+{"id": 3164739, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Meta earnings date commentary, earnings excluded"}
+{"id": 2442131, "trade": 0, "channel": "geopolitics_oil", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.35, "reason": "Vague Iranian regional unity statement, no deal"}
+{"id": 9676556, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Obituary and diplomacy commentary"}
+{"id": 1554499, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Fragment of prior Iran statement"}
+{"id": 7608418, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Opinion piece"}
+{"id": 2539969, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Crime news, irrelevant"}
+{"id": 5873820, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Celebrity legal news, irrelevant"}
+{"id": 1595325, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Speculative Chinese military hardware report"}
+{"id": 4862348, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Leveraged Anthropic ETF filings, no index impact"}
+{"id": 1418869, "trade": 0, "channel": "credit_crypto", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Sentiment index reading, not an event"}
+{"id": 5250029, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.15, "reason": "DoorDash-Instacart M&A talks, not a mapped channel"}
+{"id": 2039807, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of DoorDash-Instacart headline"}
+{"id": 8245017, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Ticker tag only"}
+{"id": 8268109, "trade": 1, "channel": "tariffs_trade", "sign": 1, "surprise": 1, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.55, "reason": "US-Canada working on deal to ease steel, auto tariffs"}
+{"id": 7281683, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Venezuela diplomatic remark, no market channel"}
+{"id": 3149238, "trade": 0, "channel": "tariffs_trade", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "repeat", "duration": "none", "confidence": 0.4, "reason": "Recap of Canada tariff talks; no deal finalized"}
+{"id": 8914999, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Political voter fraud bounty post"}
+{"id": 1477777, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Trump rhetoric on Brazil election, no action"}
+{"id": 3219283, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat DoorDash-Instacart report"}
+{"id": 1277839, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Minor private deal story"}
+{"id": 2978556, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UN report, no military or oil development"}
+{"id": 5346856, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.25, "reason": "Localized Jordan strike in Syria, no oil relevance"}
+{"id": 7075040, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "UK-EU free movement talks, not a mapped channel"}
+{"id": 3264286, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.05, "reason": "Recap of voter fraud bounty post"}
+{"id": 5673814, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 6428511, "trade": 0, "channel": "tariffs_trade", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.4, "reason": "Carney hints progress, after-hours, no decision"}
+{"id": 4805683, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 2275605, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Amazon product feature, not magnitude-3"}
+{"id": 3699921, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 1907628, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 1416946, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 1800444, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 3139788, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 6320772, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}
+{"id": 1319808, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign endorsement post"}

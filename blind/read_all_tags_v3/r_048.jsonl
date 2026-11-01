@@ -1,0 +1,50 @@
+{"id": 1147483, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "OpenAI policy detail, no mapped channel, after hours"}
+{"id": 2752772, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Relay of OpenAI usage policy update, no channel"}
+{"id": 1415620, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "OpenAI router approval policy, not a mapped megacap"}
+{"id": 3822001, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "JPMorgan dormant Turkish license surrender, immaterial"}
+{"id": 4791902, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "European websites outage list, no market channel"}
+{"id": 6643437, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "LSEG M&A report, irrelevant to MNQ"}
+{"id": 7052749, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Japan weekly flows, no forecast, minor"}
+{"id": 3986025, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Japan weekly flows, no forecast, minor"}
+{"id": 6258267, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Japan weekly flows, no forecast, minor"}
+{"id": 7505252, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Japan weekly flows, no forecast, minor"}
+{"id": 9415735, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Summary relay of Japan flows just reported"}
+{"id": 1447351, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market color on JGB and Nikkei futures"}
+{"id": 7926804, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of Japan flows data"}
+{"id": 2806151, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Tesla-SpaceX deal story, deals are trade 0"}
+{"id": 9486454, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Same Tesla-SpaceX deal timing, deal not mag-3"}
+{"id": 2281878, "trade": 0, "channel": "china", "sign": 1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.2, "reason": "South China Sea resupply allowed, minor, not Taiwan"}
+{"id": 8191298, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "European futures market color"}
+{"id": 5985193, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat European futures market color"}
+{"id": 3494576, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "BHP uranium comment, irrelevant"}
+{"id": 5898256, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "China cybersecurity advisory, no market channel"}
+{"id": 4053443, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Same China cybersecurity advisory"}
+{"id": 8863156, "trade": 0, "channel": "credit_crypto", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "China BTC seizure of fraud funds, not hack or break"}
+{"id": 2603629, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "US campaign ad controversy, irrelevant"}
+{"id": 2212887, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Hong Kong property feature, irrelevant"}
+{"id": 8318091, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "SpaceX analyst price target, not a trade"}
+{"id": 9849584, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Visa-Fireblocks M&A talks, irrelevant"}
+{"id": 4655574, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Tesla analyst target changes, not mag-3"}
+{"id": 1887867, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "German tax revenue projection, no MNQ channel"}
+{"id": 6432949, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Promotional speculation, no event"}
+{"id": 4909832, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "German fiscal comment, no MNQ channel"}
+{"id": 6710445, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "German tax estimate detail, no MNQ channel"}
+{"id": 4982445, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "German tax estimate detail, no MNQ channel"}
+{"id": 7112758, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "German municipal tax detail, no MNQ channel"}
+{"id": 6303384, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Effective fed funds unchanged, routine"}
+{"id": 7449960, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat German consolidation comment"}
+{"id": 2621364, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "German tax estimate detail, no MNQ channel"}
+{"id": 6933060, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "German tax estimate detail, no MNQ channel"}
+{"id": 5758043, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Small chips R&D awards, immaterial"}
+{"id": 1806276, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Single chips award detail, immaterial"}
+{"id": 6373934, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "German state tax detail, no MNQ channel"}
+{"id": 8938036, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Sony PS5 sales, not a mapped megacap"}
+{"id": 5644721, "trade": 0, "channel": "megacap", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "Meta CDS record, post-earnings, not mag-3 event"}
+{"id": 3994406, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Short-seller profit tally, retrospective color"}
+{"id": 8894488, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Stablecoin usage statistics, no stress"}
+{"id": 8561309, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Opening imbalance flow data, not news"}
+{"id": 5792936, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market move report, not a catalyst"}
+{"id": 1119946, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat open market levels"}
+{"id": 4708908, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Alphabet power deal, deals are trade 0"}
+{"id": 1057215, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Meta post-earnings price move, earnings trade 0"}
+{"id": 9272658, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Campaign praise post, no policy content"}

@@ -1,0 +1,50 @@
+{"id": 6977174, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "NZD FX color, no tradable event"}
+{"id": 3147085, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Defense product unveiling, no market channel"}
+{"id": 4066626, "trade": 0, "channel": "tariffs_trade", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "WTO commentary, no policy decision"}
+{"id": 1964611, "trade": 0, "channel": "growth_data", "sign": -1, "surprise": 1, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "German trade balance near estimate, little Nasdaq relevance"}
+{"id": 4084348, "trade": 0, "channel": "growth_data", "sign": 1, "surprise": -1, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "German imports miss estimate, minor foreign print"}
+{"id": 9702356, "trade": 0, "channel": "growth_data", "sign": 1, "surprise": -1, "magnitude": 1, "novelty": "new", "duration": "short", "confidence": 0.3, "reason": "German exports miss estimate, minor foreign print"}
+{"id": 3317800, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Market color, not news"}
+{"id": 8670975, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Diplomatic consulate dispute, not on escalation ladder"}
+{"id": 6545546, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Diplomats leaving, diplomatic only"}
+{"id": 5175273, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Japan farm subsidy, irrelevant to MNQ"}
+{"id": 6273730, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Executive commentary, no event"}
+{"id": 2514515, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "Consulate dispute softened, diplomatic only"}
+{"id": 9712853, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.2, "reason": "No UK retaliation, diplomatic only"}
+{"id": 4989693, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Feature article, no event"}
+{"id": 5019111, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Bank research note on oil demand"}
+{"id": 4035724, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "ECB member commentary, not Fed, mixed tone"}
+{"id": 6911533, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "new", "duration": "medium", "confidence": 0.55, "reason": "Houthi strikes on Saudi airports kill three, attack rung"}
+{"id": 4823540, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Local HK news"}
+{"id": 6874749, "trade": 0, "channel": "china", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.15, "reason": "Analysis piece on US-China summit, no new decision"}
+{"id": 3298468, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "ECB growth commentary, not Fed"}
+{"id": 3451677, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Local retail feature"}
+{"id": 3775481, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Human interest story"}
+{"id": 9381626, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Labor settlement, irrelevant"}
+{"id": 7140122, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Local crime news"}
+{"id": 7348505, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Feature article on data centres"}
+{"id": 9176133, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "SNB commentary, no policy change"}
+{"id": 5414574, "trade": 0, "channel": "rates_fed", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.1, "reason": "Schedule notice for Waller speech, no content"}
+{"id": 6717203, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "SNB commentary repeat"}
+{"id": 6091490, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "SNB no change needed, irrelevant to MNQ"}
+{"id": 5508934, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.15, "reason": "ECB Lane inflation view, not Fed"}
+{"id": 6281843, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "ECB Lane commentary, not Fed"}
+{"id": 2271493, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "German government forecast, not a scheduled print with consensus"}
+{"id": 2362921, "trade": 0, "channel": "growth_data", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Repeat of German outlook upgrade"}
+{"id": 8567486, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "update", "duration": "medium", "confidence": 0.6, "reason": "NYT confirms blasts in Riyadh, deadliest Houthi attacks yet"}
+{"id": 4653972, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "BoE generic AI risk warning, no policy action"}
+{"id": 4419460, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoE fiscal commentary"}
+{"id": 9150609, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.2, "reason": "Google product launch, not magnitude-3 event"}
+{"id": 5855502, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoE market resilience commentary"}
+{"id": 8179241, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoE boilerplate on inflation target"}
+{"id": 8600182, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Google product detail, not tradable"}
+{"id": 5664586, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Google product detail repeat"}
+{"id": 4224655, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "none", "confidence": 0.3, "reason": "Damage detail, aircraft empty, no new rung"}
+{"id": 1501690, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "Google product detail, not tradable"}
+{"id": 7991863, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.1, "reason": "BoE market color"}
+{"id": 2967316, "trade": 1, "channel": "geopolitics_oil", "sign": -1, "surprise": 1, "magnitude": 2, "novelty": "update", "duration": "medium", "confidence": 0.5, "reason": "New ballistic missile salvo at Riyadh, intercepted; attacks continuing"}
+{"id": 3856885, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "German politics commentary"}
+{"id": 4579483, "trade": 0, "channel": "geopolitics_oil", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "new", "duration": "none", "confidence": 0.05, "reason": "Opinion commentary on Rubio quote"}
+{"id": 2140454, "trade": 0, "channel": "none", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "update", "duration": "none", "confidence": 0.05, "reason": "EU capital markets commentary"}
+{"id": 8851057, "trade": 0, "channel": "megacap", "sign": 0, "surprise": 0, "magnitude": 0, "novelty": "repeat", "duration": "none", "confidence": 0.1, "reason": "Old disclosure of Trump Meta stock purchase"}
+{"id": 4133150, "trade": 0, "channel": "geopolitics_oil", "sign": -1, "surprise": 0, "magnitude": 1, "novelty": "update", "duration": "medium", "confidence": 0.4, "reason": "Airport disruption advisory, follow-on detail, no new rung"}
